@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuctionApi", "AuctionApi\AuctionApi.csproj", "{77439C92-0952-48ED-8C49-F6B69C7417A4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuctionRepository", "..\AuctionRepository\AuctionRepository\AuctionRepository.csproj", "{02128877-5C2C-4AE9-81EF-307E664821EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77439C92-0952-48ED-8C49-F6B69C7417A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77439C92-0952-48ED-8C49-F6B69C7417A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77439C92-0952-48ED-8C49-F6B69C7417A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77439C92-0952-48ED-8C49-F6B69C7417A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02128877-5C2C-4AE9-81EF-307E664821EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02128877-5C2C-4AE9-81EF-307E664821EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02128877-5C2C-4AE9-81EF-307E664821EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02128877-5C2C-4AE9-81EF-307E664821EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B02CDEBE-C3FE-43D3-8F75-D680CC931F04}
+	EndGlobalSection
+EndGlobal
